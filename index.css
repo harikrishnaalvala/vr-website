@@ -1,0 +1,291 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.VRWebsite-logo {
+  height: 40px;
+}
+
+#VRWebsite-navitem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+#VRWebsite-navitem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+#VRWebsite-navitem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+#VRWebsite-navitem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+
+.VRWebsite-Banner-section-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.VRWebsite-Banner-section-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 500;
+}
+
+.VRWebsite-Banner-section-button {
+  height: 45px;
+  width: 130px;
+  color: #ffffff;
+  background-color: #1a2137;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+/* Features section =====================*/
+
+.VRWebsite-Features-Title {
+  font-family: "Roboto";
+  font-size: 35px;
+  font-weight: 600;
+  color: #1f2933;
+}
+
+.VRWebsite-Features-Section-card {
+  text-align: center;
+}
+
+.VRWebsite-Features-Section-image {
+  width: 64px;
+  height: 64px;
+}
+
+.VRWebsite-Features-Section-Title {
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+  color: #1f2933;
+}
+
+.VRWebsite-Features-Section-description {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  color: #7b8794;
+}
+
+.VRWebsite-Features-Section-card-highlight-text {
+  font-weight: 900;
+  font-style: italic;
+  color: #1f2933;
+}
+/*==============kit section===================== */
+
+.VRWebsite-Kit-Section {
+  background-color: #f9fbfe;
+}
+
+.VRWebsite-Kit-Section-main-heading {
+  font-family: "Roboto";
+  font-size: 35px;
+  font-weight: 900;
+  color: #1f2933;
+}
+
+.VRWebsite-Kit-Section-card-container {
+  text-align: center;
+}
+
+.VRWebsite-Kit-Section-card-image {
+  height: 160px;
+  width: 130px;
+}
+
+.VRWebsite-Kit-Section-card-title {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  color: #323f4b;
+}
+
+/* optics and controller section*/
+
+.VRWebsite-Optics-and-Controllers-Section-card-image {
+  width: 100%;
+}
+
+.VRWebsite-Optics-and-Controllers-Section-card-title {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 900;
+  color: #1f2933;
+}
+
+.VRWebsite-Optics-and-Controllers-Section-card-description {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  color: #7b8794;
+}
+
+.VRWebsite-Optics-and-Controllers-Section-card-button {
+  background-color: #1a2137;
+  color: #ffffff;
+  height: 40px;
+  width: 110px;
+  font-family: "Roboto";
+  font-size: 16px;
+  border-width: 0px;
+  border-radius: 3px;
+}
+
+/* Contact us */
+
+.VRWebsite-Contact-Us-Section-bg-container {
+  background-color: #222b36;
+  text-align: center;
+}
+
+.VRWebsite-Contact-Us-Section-mainheading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 34px;
+  font-weight: 800;
+}
+
+.VRWebsite-Contact-Us-Section-image {
+  width: 90%;
+}
+
+.VRWebsite-Contact-Us-Section-button {
+  height: 40px;
+  width: 130px;
+  color: #ffffff;
+  background-color: transparent;
+  font-family: "Roboto";
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  border-radius: 6px;
+}
+
+/* trending blog section */
+
+.VRWebsite-Trending-Blogs-Section-mainheading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 34px;
+  font-weight: 900;
+}
+
+.VRWebsite-Trending-Blogs-Section-card-image {
+  width: 100%;
+}
+
+.VRWebsite-Trending-Blogs-Section-card-Title {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.VRWebsite-Trending-Blogs-Section-card-description {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.VRWebsite-Trending-Blogs-Section-card-link {
+  color: #1754a1;
+  font-family: "Roboto";
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.VRWebsite-Trending-Blogs-Section-button-align {
+  text-align: center;
+}
+
+.VRWebsite-Trending-Blogs-Section-button {
+  color: #ffffff;
+  background-color: #1754a1;
+  font-family: "Roboto";
+  height: 40px;
+  width: 135px;
+  border-style: solid;
+  border-width: 0px;
+}
+
+/* Footer */
+
+.VRWebsite-Footer-Section-bg-container {
+  background-color: #19232d;
+}
+
+.VRWebsite-Footer-Section-logo {
+  height: 50px;
+  width: 80px;
+}
+
+.VRWebsite-Footer-Section-icon {
+  color: #5a7184;
+  font-size: 17px;
+}
+
+.VRWebsite-Footer-Section-icon-container {
+  background-color: #202b36;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin: 6px;
+  padding-top: 8px;
+  padding-bottom: 15px;
+  padding-right: 16px;
+  padding-left: 13px;
+}
+
+.VRWebsite-Footer-Section-address {
+  text-align: center;
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.VRWebsite-Footer-Section-mediumdevice-address {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.VRWebsite-Footer-Section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.VRWebsite-Footer-Section-heading {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.VRWebsite-Footer-Section-break-line {
+  background-color: #959ead;
+}
+
+.VRWebsite-Footer-Section-Footer-caption {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 900;
+}
